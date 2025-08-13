@@ -11,6 +11,7 @@ The Salary Information System is a simple console-based application that allows 
 The program prompts the user to select an option, takes input such as employee name, monthly salary, and other relevant details, then displays the calculated results according to the selected feature.
 
 ✨ Features
+
 1️⃣ Calculate Income Tax
 Calculates monthly Income Tax based on Sri Lankan tax slabs.
 
