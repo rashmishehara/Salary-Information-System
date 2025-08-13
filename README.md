@@ -2,7 +2,7 @@ Salary Information System
 
 📌 Overview
 
-The Salary Information System is a simple console-based application that allows users to calculate three salary-related details:
+This Salary Information System is a simple java application that allows users to calculate three salary-related details:
 
 01. Income Tax
 02. Annual Bonus
